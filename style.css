@@ -2,5 +2,65 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: "inter", sans-serif;
+}
+body{
+    background-color:#CAE9F5 ;
+    border: 1px solid #B19CD9;
+    width: 100%;
+    height: 100%;
+}
+header {
+  float: left;
+  height: auto;
+  border-radius: 10px 10px;
+  margin-right: 10px;
+  border:2px solid #F0F8FF;
+  margin: 2em 2em;
+}
+
+h1, h2{
+    font-size: 35px;
+    font-family: "Gabriela";
+    text-align: center;
+    line-height: 1.5em;
+}
+
+h3{
+    font-size: 24px;
+    font-weight: 500;
+    width: 10em;
+    background-color: #F0F8FF;
+    text-align: center;
+    padding: .5em;
+    margin: 1em .5em;
+    border-radius: 30px 30px;
+}
+
+ul{
+    text-transform: capitalize;
+    text-decoration: none;
+    text-shadow: #F0F8FF;
     
+}
+li{
+     list-style-type:square;
+     margin-left: 1.5em;
+     line-height: 2em;
+     font-family: Gabriela;
+     font-style: italic;
+}
+main {
+  float: left;
+  margin-left: 100px;
+  width: 600px;
+}
+img{
+    border-radius: 4em 4em;
+}
+h5{
+    margin-top: 1.2em;
+}
+a{
+    text-decoration:underline;
 }
