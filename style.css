@@ -64,7 +64,7 @@ img {
   width: 60%;
   cursor: grabbing;
   transition: 0.5s;
-  -webkit-box-reflect: right 0px linear-gradient(to bottom, rgba(0,0,0,0.0), rgba(0,0,0,0.4));
+  -webkit-box-reflect: right 1px linear-gradient(to bottom, rgba(0,0,0,0.0), rgba(0,0,0,0.4));
   
 }
 img:hover{
