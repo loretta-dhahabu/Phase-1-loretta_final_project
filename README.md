@@ -5,7 +5,9 @@ Sea Food Eatery readme file
  Loretta Dhahabu Jefwa
 
  # Description
-  A web application created using HTML,CSS and JavaScript with the aiam of providing information about the different types of seafoods and their ingredients.When the food name is clicked, an image of the type of food is played. It again provides the ingredients used to prepare the meal and this is because some people are allergic to some ingredients, theirfore is give the customer a chance to explore the ingredients whether they are okay with them or not. Also it allows the user to leave a comment after having a taste of the seafood.
+  A web application created using HTML,CSS and JavaScript with the aim of providing information about the different types of seafoods and their ingredients.When the food name is clicked, an image of the type of food is played. 
+  It again provides the ingredients used to prepare the meal and this is because some people are allergic to some ingredients, therefor is give the customer a chance to explore the ingredients whether they are okay with them or not. 
+  Also it allows the user to leave a comment after having a taste of the seafood.
 
 Homepage: 
 repository: https://github.com/loretta-dhahabu/Phase-1-loretta_final_project
