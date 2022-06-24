@@ -18,6 +18,14 @@ repository: https://github.com/loretta-dhahabu/Phase-1-loretta_final_project
 
 Use this gif as an example of how the app should work.
 https://youtu.be/VRGDKr_frxk
+
+# Design architecture
+https://www.figma.com/file/jMHMehuvrWJXQjCTFsPRsp/Untitled?node-id=10%3A47
+
+# Blog link
+https://medium.com/@loreydjefwa/loretta-dhahabu-blog-dd8de632d8e
+
+
 # Technologies Used 
 This website was created using HTML,CSS and JavaScript technologies. 
 
