@@ -14,7 +14,10 @@ repository: https://github.com/loretta-dhahabu/Phase-1-loretta_final_project
 
 <!-- # Project Image
 ![Sea Food project](/https://github.com/loretta-dhahabu/Phase-1-loretta_final_project/assets/seafood_project.png?raw=true "Sea Food Eatery") -->
+## Demo
 
+Use this gif as an example of how the app should work.
+https://youtu.be/VRGDKr_frxk
 # Technologies Used 
 This website was created using HTML,CSS and JavaScript technologies. 
 
