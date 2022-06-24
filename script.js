@@ -88,7 +88,6 @@ document.getElementById("comment-form").onclick = () => {
 //         let mealId = foodObject.idMeal;
 //         let foodIngredients = foodObject.Ingredients;
 
-        // console.log(ingredients);
         // let img = foodObject.strMealThumb;
 
         // if (idMeal === mealId) {
