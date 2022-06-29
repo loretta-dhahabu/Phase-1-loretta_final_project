@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
 let users = [];
 
 function getSeaFood() {
-  fetch("http://localhost:3000/meals")
+  fetch("www.themealdb.com/api/json/v1/1/filter.php?c=Seafood")
     .then((resp) => resp.json())
     .then((data) => {
       for (const foodObject of data) {
@@ -14,7 +14,7 @@ function getSeaFood() {
         nameList.addEventListener("click", () => {
           renderFood(foodObject);
         });
-        document.getElementById( "food-list" ).appendChild( nameList );
+        document.getElementById("food-list").appendChild(nameList);
         // customerComments(foodObject)
       }
     });
