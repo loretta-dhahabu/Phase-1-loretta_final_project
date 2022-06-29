@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
 let users = [];
 
 function getSeaFood() {
-  fetch("https://www.themealdb.com/api/json/v1/1/filter.php?c=Seafood")
+  fetch("http://localhost:3000/meals")
     .then((resp) => resp.json())
     .then((data) => {
       for (const foodObject of data) {
@@ -14,7 +14,7 @@ function getSeaFood() {
         nameList.addEventListener("click", () => {
           renderFood(foodObject);
         });
-        document.getElementById("food-list").appendChild(nameList);
+        document.getElementById( "food-list" ).appendChild( nameList );
         // customerComments(foodObject)
       }
     });
@@ -28,24 +28,24 @@ function renderFood(foodObject) {
   // customerComments(foodObject);
 }
 
-// function ingredientsList(foodObject) {
-//   fetch("http://localhost:3000/meals")
-//     .then((resp) => resp.json())
-//     .then( ( data ) =>
-//     {
-//       for (const foodObject of data) {
-//             let foodIngr = document.getElementById("food-ingredients");
-//             let ingrList = document.createElement("li");
-//             ingrList.innerText = foodIngredient;
-//             foodIngr.appendChild(ingrList);
-//           }
+function ingredientsList(foodObject) {
+  fetch("http://localhost:3000/meals")
+    .then((resp) => resp.json())
+    .then( ( data ) =>
+    {
+      for (const foodObject of data) {
+            let foodIngr = document.getElementById("food-ingredients");
+            let ingrList = document.createElement("li");
+            ingrList.innerText = foodIngredient;
+            foodIngr.appendChild(ingrList);
+          }
       // for (const foodObject of data) {
       //   const itemList = document.createElement("li");
       //   itemList.innerText = foodObject.Ingredients;
       //   document.getElementById("food-ingredients").appendChild(itemList);
       // }
-    // });
-// }
+    });
+}
 document.getElementById("comment-form").onclick = () => {
   let userComments = document.getElementById("comment").value;
   let comm = document.getElementById("comments-list");
