@@ -1,0 +1,207 @@
+{
+  "meals": [
+    {
+      "strMeal": "Baked salmon with fennel & tomatoes",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/1548772327.jpg",
+      "idMeal": "52959",
+      "Comments": "",
+      "Ingredients": [
+        "2 medium fennel bulbs",
+        "2 tbsp chopped flat-leaf parsley",
+        "zest and juice 1 lemon",
+        "175g cherry tomato",
+        "1 tbsp olive oil",
+        "2 salmon fillets , about 175g each",
+        "few black olives (optional)"
+      ]
+    },
+    {
+      "strMeal": "Escovitch Fish",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/1520084413.jpg",
+      "idMeal": "52944",
+      "Comments": "",
+      "Ingredients": [
+        "2 pounds whole red snapper about 2-3 fish or any white fish – cleaned and scaled",
+        "Salt and pepper or any seasoning of choice",
+        "1 lime or lemon",
+        " cup vegetable oil or more as needed",
+        "1 teaspoon minced garlic about 2 garlic cloves",
+        "½ teaspoon ginger",
+        "1 yellow medium onion thinly sliced"
+      ]
+    },
+    {
+      "strMeal": "Fish pie",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/ysxwuq1487323065.jpg",
+      "idMeal": "52802",
+      "Comments": "",
+      "Ingredients": [
+        "400g skinless white fish fillet",
+        "400g skinless smoked haddock fillet",
+        "600ml full-fat milk",
+        "1 small onion, quartered",
+        "4 cloves",
+        "2 bay leaves",
+        "4 eggs"
+      ]
+    },
+    {
+      "strMeal": "Fish Stew with Rouille",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/vptqpw1511798500.jpg",
+      "idMeal": "52918",
+      "Comments": "",
+      "Ingredients": [
+        "6 large, raw, shell-on prawns",
+        "3 tbsp mild olive oil",
+        "150ml dry white wine",
+        "200ml fish stock (a cube is fine)",
+        "1 small fennel bulb (about 140g/5oz) halved and thinly sliced",
+        "1 small onion , thinly sliced",
+        "3 garlic cloves , thinly sliced"
+      ]
+    },
+    {
+      "strMeal": "Garides Saganaki",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/wuvryu1468232995.jpg",
+      "idMeal": "52764",
+      "Comments": "",
+      "Ingredients": [
+        "a block of feta cheese ideally made from 100% sheep’s milk (approx. 190g/ 6.5 oz.)",
+        "1 egg, beaten",
+        "1/2 tsp of freshly ground pepper",
+        "40g flour, enough to coat the feta cheese (1.5 oz.)",
+        "olive oil for frying",
+        "1 lemon",
+        "Alternatively, a tablespoon of honey and sesame seeds"
+      ]
+    },
+    {
+      "strMeal": "Grilled Portuguese sardines",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/lpd4wy1614347943.jpg",
+      "idMeal": "53041",
+      "Comments": "",
+      "Ingredients": [
+        "small bunch parsley, leaves only, chopped",
+        "100g butter",
+        "50g plain flour",
+        "pinch freshly grated nutmeg",
+        "1kg floury potato, peeled and cut into even-sized chunks",
+        "50g cheddar, grated"
+      ]
+    },
+    {
+      "strMeal": "Honey Teriyaki Salmon",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/xxyupu1468262513.jpg",
+      "idMeal": "52773",
+      "Comments": "",
+      "Ingredients": [
+        "½ teaspoon Jamaican all spice",
+        "1- tablespoon sugar",
+        "1 teaspoon Worcestershire sauce",
+        "¾ cup malt vinegar sub red wine vinegar",
+        "Freshly ground white pepper"
+      ]
+    },
+
+    {
+      "strMeal": "Kung Po Prawns",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/1525873040.jpg",
+      "idMeal": "52946",
+      "Comments": "",
+      "Ingredients": [
+        "1 large potato , about 200g/8oz (I used King Edward)",
+        "1½ tsp harissa paste (I used Belazu)",
+        "2 tbsp tomato purée",
+        "400g can chopped tomatoes",
+        "handful mussels or clams",
+        "200g skinless, sustainably-caught white fish (I used cod loin), cut into very chunky pieces",
+        "few thyme leaves"
+      ]
+    },
+    {
+      "strMeal": "Mediterranean Pasta Salad",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/wvqpwt1468339226.jpg",
+      "idMeal": "52777",
+      "Comments": "",
+      "Ingredients": [
+        "lots of fresh cucumber (I went with an English cucumber, so that you don’t have to mess with seeding it)",
+        "ripe cherry tomatoes (or you could use sun-dried tomatoes)",
+        "thinly- sliced red onion (feel free to soak it in cold water beforehand if you want a less onion-y taste)",
+        "feta cheese galore (I used reduced-fat)",
+        "your favorite kind of pasta"
+      ]
+    },
+    {
+      "strMeal": "Portuguese fish stew (Caldeirada de peixe)",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/do7zps1614349775.jpg",
+      "idMeal": "53045",
+      "Comments": "",
+      "Ingredients": [
+        "1 medium carrot Julienne",
+        "½ red bell pepper thinly sliced",
+        "½ yellow bell pepper thinly sliced",
+        "2 sprigs thyme",
+        "1 Scotch bonnet pepper pierced or replace with ½ teaspoon cayenne pepper"
+      ]
+    },
+    {
+      "strMeal": "Recheado Masala Fish",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/uwxusv1487344500.jpg",
+      "idMeal": "52809",
+      "Comments": "",
+      "Ingredients": [
+        "20 Kashmiri red Chillies or smoked sweet paprika",
+        "10 cloves Garlic",
+        "3 inch Ginger fresh",
+        "10 Cloves",
+        "10 Peppercorns or 1 teaspoon pepper powder",
+        "1 large Cinnamon stick (3-inches)",
+        "4 Green cardamoms",
+        "1 teaspoon Cumin jeera"
+      ]
+    },
+
+    {
+      "strMeal": "Shrimp Chow Fun",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/1529445434.jpg",
+      "idMeal": "52953",
+      "Comments": "",
+      "Ingredients": [
+        "2 tbsp Jaggery (or dark brown sugar)",
+        "1 teaspoon Salt",
+        "1 teaspoon Tamarind paste (or small golf size ball of fresh tamarind)",
+        "½ cup White vinegar Palm or white wine vinegar",
+        "¼ cup Coconut vinegar (Feni)",
+        "1 large Onion",
+        "1 tablespoon Cooking oil"
+      ]
+    },
+
+    {
+      "strMeal": "Three Fish Pie",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/spswqs1511558697.jpg",
+      "idMeal": "52882",
+      "Comments": "",
+      "Ingredients": [
+        "50g SunBlush or sundried tomato in oil, finely chopped",
+        "½ red onion , thinly sliced",
+        "100g baby spinach",
+        "2 x 160g or 200g cans yellowfin tuna steak in springwater, drained"
+      ]
+    },
+
+    {
+      "strMeal": "Tuna Nicoise",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/yypwwq1511304979.jpg",
+      "idMeal": "52852",
+      "Comments": "",
+      "Ingredients": [
+        "450g waxy potatoes , unpeeled and thickly sliced",
+        "2 tbsp plus 2 tsp olive oil",
+        "4 eggs",
+        "1 tbsp red wine vinegar",
+        "2 tbsp caper , rinsed"
+      ]
+    }
+  ]
+}
