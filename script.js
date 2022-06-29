@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
 let users = [];
 
 function getSeaFood() {
-  fetch("www.themealdb.com/api/json/v1/1/filter.php?c=Seafood")
+  fetch("https://www.themealdb.com/api/json/v1/1/filter.php?c=Seafood")
     .then((resp) => resp.json())
     .then((data) => {
       for (const foodObject of data) {
