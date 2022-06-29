@@ -5,18 +5,19 @@ document.addEventListener("DOMContentLoaded", function () {
 let users = [];
 
 function getSeaFood() {
-  fetch("http://localhost:3000/meals")
+  fetch("https://loretta-dhahabu.github.io/Phase-1_project-API-/db.json")
     .then((resp) => resp.json())
     .then((data) => {
-      for (const foodObject of data) {
+      for (const foodObject of data.meals) {
         const nameList = document.createElement("li");
         nameList.innerText = foodObject.strMeal;
         nameList.addEventListener("click", () => {
           renderFood(foodObject);
         });
-        document.getElementById( "food-list" ).appendChild( nameList );
+        document.getElementById("food-list").appendChild(nameList);
         // customerComments(foodObject)
       }
+      console.log(data.meals)
     });
 }
 function renderFood(foodObject) {
@@ -29,16 +30,15 @@ function renderFood(foodObject) {
 }
 
 function ingredientsList(foodObject) {
-  fetch("http://localhost:3000/meals")
+  fetch("https://loretta-dhahabu.github.io/Phase-1_project-API-/db.json")
     .then((resp) => resp.json())
-    .then( ( data ) =>
-    {
+    .then((data) => {
       for (const foodObject of data) {
-            let foodIngr = document.getElementById("food-ingredients");
-            let ingrList = document.createElement("li");
-            ingrList.innerText = foodIngredient;
-            foodIngr.appendChild(ingrList);
-          }
+        let foodIngr = document.getElementById("food-ingredients");
+        let ingrList = document.createElement("li");
+        ingrList.innerText = foodIngredient;
+        foodIngr.appendChild(ingrList);
+      }
       // for (const foodObject of data) {
       //   const itemList = document.createElement("li");
       //   itemList.innerText = foodObject.Ingredients;
